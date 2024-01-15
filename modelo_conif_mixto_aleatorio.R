@@ -1,5 +1,5 @@
-# Autor: LAura Méndez González
-# Trabao Final de Máster
+# Autor: Laura Méndez González
+# Trabajo Final de Máster
 # Máster en Tecnologías de la Información Geográfica
 
 # Descripción del script: 
